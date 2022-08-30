@@ -3,7 +3,7 @@ This is a [prismjs](https://github.com/PrismJS/prism) plugin that runs the javas
 
 # How To Use
 
-- The build files are present in [dist](./tree/main/dist) folder.
+- The build files are present in [dist](./dist) folder.
 - There will be two folders one is prismjs build and runAsJs build files.
 - For runAsJs plugin to work, you need have the following:
   - [Prism js](https://github.com/PrismJS/prism)
@@ -17,7 +17,7 @@ This is a [prismjs](https://github.com/PrismJS/prism) plugin that runs the javas
 
 # How to build
 
-- To build from source, use the command 
+- To build from source, use the following commands
 
 ```shell
 npm install
