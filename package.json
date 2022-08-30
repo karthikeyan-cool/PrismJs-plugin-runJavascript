@@ -1,0 +1,31 @@
+{
+  "name": "runasjs-prismjs-plugin",
+  "version": "0.0.1",
+  "main": "runAsJsSrc/runAsJs.js",
+  "description": "runJavascript is a prism js plugin which will run the javascript inside the code block.",
+  "directories": {
+    "example": "example of the runAsJs prismJs plugin"
+  },
+  "scripts": {
+    "postCss": "npx postcss css/**/*.css --base css --dir dist/runAsJs/css -u cssnano",
+    "build": "npm run postCss && npx rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikeyan-cool/PrismJs-plugin-runJavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyan-cool/PrismJs-plugin-runJavascript/issues"
+  },
+  "homepage": "https://github.com/karthikeyan-cool/PrismJs-plugin-runJavascript#readme",
+  "devDependencies": {
+    "cssnano": "^5.1.13",
+    "del-cli": "^5.0.0",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0",
+    "rollup": "^2.78.1",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}

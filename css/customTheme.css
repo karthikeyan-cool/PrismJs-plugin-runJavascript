@@ -1,0 +1,7 @@
+div.code-toolbar > .toolbar > .toolbar-item > a:focus, div.code-toolbar > .toolbar > .toolbar-item > a:hover, div.code-toolbar > .toolbar > .toolbar-item > button:focus, div.code-toolbar > .toolbar > .toolbar-item > button:hover, div.code-toolbar > .toolbar > .toolbar-item > span:focus, div.code-toolbar > .toolbar > .toolbar-item > span:hover {
+    color: whitesmoke !important;
+}
+
+div.code-toolbar > .toolbar > .toolbar-item {
+    margin: 0 0.25rem 0 0.25rem;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../prism/prism.css">
+    <link rel="stylesheet" href="../css/runAsJs.css">
+    <link rel="stylesheet" href="../css/customTheme.css">
+</head>
+<body>
+<pre>
+<code class="language-javascript" data-lang="javascript">
+    var
+    stringToJsObject=JSON.parse("{\"jsonObject\":{\"id\":\"2489651045\",\"type\":\"CreateEvent\",\"actor\":{\"id\":665991,\"login\":\"petroav\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/petroav\",\"avatar_url\":\"https://avatars.githubusercontent.com/u/665991?\"}},\"jsonArray\":[{\"id\":\"2489651051\",\"type\":\"PushEvent\",\"actor\":{\"id\":3854017,\"login\":\"rspt\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/rspt\",\"avatar_url\":\"https://avatars.githubusercontent.com/u/3854017?\"}}]}");
+    console.log(stringToJsObject.jsonObject.type);
+    console.log(stringToJsObject.jsonArray[0].actor.avatar_url);
+</code>
+</pre>
+<script src="../prism/prism.js"></script>
+<script src="../runAsJsSrc/runAsJs.js"></script>
+</body>
+</html>
