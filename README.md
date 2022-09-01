@@ -5,8 +5,13 @@ This is a [prismjs](https://github.com/PrismJS/prism) plugin that runs the javas
 
 # Demo
 
+## Video:
+
 https://user-images.githubusercontent.com/70737008/187843491-a848e22c-b5b2-41bb-8776-942750bac16d.mp4
 
+## Working Example:
+
+https://karthikeyan-cool.github.io/runAsJs-prismJs-plugin/demo/
 
 # How To Use
 
