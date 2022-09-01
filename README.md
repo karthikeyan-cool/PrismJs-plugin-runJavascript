@@ -46,7 +46,7 @@ npm i runasjs-prismjs-plugin
 
 ```
 
-
+https://cdn.jsdelivr.net/npm/runasjs-prismjs-plugin@1.0.0
 
 ```
 
