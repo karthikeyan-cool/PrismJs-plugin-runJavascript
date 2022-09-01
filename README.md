@@ -29,4 +29,23 @@ npm install
 npm run build
 ```
 
+# How to install
+
+## NPM:
+
+```shell
+
+npm i runasjs-prismjs-plugin
+
+```
+## CDN:
+
+- [jsdelivr](https://www.jsdelivr.com/package/npm/runasjs-prismjs-plugin)
+
+```
+
+
+
+```
+
 for issues see [issues section](https://github.com/karthikeyan-cool/PrismJs-plugin-runJavascript/issues);
