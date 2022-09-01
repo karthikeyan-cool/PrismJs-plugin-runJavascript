@@ -1,7 +1,7 @@
 {
   "name": "runasjs-prismjs-plugin",
   "version": "1.0.0",
-  "main": "dist/runAsJs/js/runAsJs.js",
+  "main": "dist/runAsJs/js/runAsJs.min.js",
   "description": "runJavascript is a prism js plugin which will run the javascript inside the code block.",
   "directories": {
     "example": "example of the runAsJs prismJs plugin"

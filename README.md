@@ -33,21 +33,32 @@ npm run build
 
 # How to install
 
-## NPM:
+[NPM:](https://www.npmjs.com/package/runasjs-prismjs-plugin)
 
 ```shell
 
 npm i runasjs-prismjs-plugin
 
 ```
-## CDN:
 
-- [jsdelivr](https://www.jsdelivr.com/package/npm/runasjs-prismjs-plugin)
+[YARN:](https://yarn.pm/runasjs-prismjs-plugin)
 
+```shell
+yarn add runasjs-prismjs-plugin
 ```
 
-https://cdn.jsdelivr.net/npm/runasjs-prismjs-plugin@1.0.0
+## CDN:
 
+- [jsdelivr](https://www.jsdelivr.com/package/npm/runasjs-prismjs-plugin/) (Format: https://cdn.jsdelivr.net/npm/runasjs-prismjs-plugin@VERSION)
+
+```
+https://cdn.jsdelivr.net/npm/runasjs-prismjs-plugin@1.0.0
+```
+
+- [unpkg](https://unpkg.com/browse/runasjs-prismjs-plugin/) (Format: https://unpkg.com/browse/runasjs-prismjs-plugin@VERSION/)
+
+```shell
+https://unpkg.com/runasjs-prismjs-plugin@1.0.0/dist/runAsJs/js/runAsJs.min.js
 ```
 
 for issues see [issues section](https://github.com/karthikeyan-cool/PrismJs-plugin-runJavascript/issues);
