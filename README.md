@@ -1,6 +1,11 @@
 # runAsJs-PrismJS-Plugin
 This is a [prismjs](https://github.com/PrismJS/prism) plugin that runs the javascript inside the code block and displays the output.
 
+# Demo
+
+https://user-images.githubusercontent.com/70737008/187843491-a848e22c-b5b2-41bb-8776-942750bac16d.mp4
+
+
 # How To Use
 
 - The build files are present in [dist](./dist) folder.
