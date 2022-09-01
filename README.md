@@ -1,3 +1,5 @@
+[![](https://data.jsdelivr.com/v1/package/npm/runasjs-prismjs-plugin/badge)](https://www.jsdelivr.com/package/npm/runasjs-prismjs-plugin)
+
 # runAsJs-PrismJS-Plugin
 This is a [prismjs](https://github.com/PrismJS/prism) plugin that runs the javascript inside the code block and displays the output.
 
