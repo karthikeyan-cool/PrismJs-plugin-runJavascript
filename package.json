@@ -1,6 +1,6 @@
 {
   "name": "runasjs-prismjs-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/runAsJs/js/runAsJs.min.js",
   "description": "runJavascript is a prism js plugin which will run the javascript inside the code block.",
   "directories": {
@@ -28,5 +28,11 @@
     "rollup": "^2.78.1",
     "rollup-plugin-terser": "^7.0.2"
   },
-  "keywords": ["prism js plugin","runasjs","runasjs prism js plugin","js plugin","run javascript inside browser"]
+  "keywords": [
+    "prism js plugin",
+    "runasjs",
+    "runasjs prism js plugin",
+    "js plugin",
+    "run javascript inside browser"
+  ]
 }
